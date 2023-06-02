@@ -11,16 +11,16 @@ function Features() {
             <li class="feature__item">
               <div class="feature__wrap">
               <Image
-								src="/assets/icons/antenna.svg"
+								src="/icons/antenna.svg"
 								alt="antenna"
 								width={70}
 								height={70}
 								className="feature__icon"
 							/>
 
-                {/* <svg class="feature__icon" width="70" height="70">
+                <svg class="feature__icon" width="70" height="70">
                   <use href="./images/icons.svg#antenna"></use>
-                </svg> */}
+                </svg>
               </div>
               <h3 class="feature__headline">УВАГА ДО ДЕТАЛЕЙ</h3>
               <p class="feature__description">
@@ -31,7 +31,7 @@ function Features() {
             <li class="item feature__item">
               <div class="feature__wrap">
               <Image
-								src="/assets/icons/astronaut.svg"
+								src="/icons/astronaut.svg"
 								alt="astronaut"
 								width={70}
 								height={70}
@@ -50,7 +50,7 @@ function Features() {
             <li class="feature__item">
               <div class="feature__wrap">
               <Image
-								src="/assets/icons/clock.svg"
+								src="/icons/clock.svg"
 								alt="clock"
 								width={70}
 								height={70}
@@ -68,7 +68,7 @@ function Features() {
             <li class="feature__item">
               <div class="feature__wrap">
               <Image
-								src="/assets/icons/diagram.svg"
+								src="/icons/diagram.svg"
 								alt="diagram"
 								width={70}
 								height={70}

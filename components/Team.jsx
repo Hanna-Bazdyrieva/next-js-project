@@ -10,27 +10,27 @@ function Team() {
               <picture>
                 <source
                   srcSet="
-                    /assets/images/team1-img-1x.jpg 1x,
-                    /assets/images/team1-img-2x.jpg 2x
+                   /images/team1-img-1x.jpg 1x,
+                    /images/team1-img-2x.jpg 2x
                   "
                   media="(min-width: 1200px)"
                 />
                 <source
                   srcSet="
-                    /assets/images/team1-img-tab-1x.jpg 1x,
-                    /assets/images/team1-img-tab-2x.jpg 2x
+                    /images/team1-img-tab-1x.jpg 1x,
+                    /images/team1-img-tab-2x.jpg 2x
                   "
                   media="(min-width: 768px)"
                 />
                 <source
                   srcSet="
-                    /assets/images/team1-img-mob-1x.jpg 1x,
-                    /assets/images/team1-img-mob-2x.jpg 2x
+                    /images/team1-img-mob-1x.jpg 1x,
+                    /images/team1-img-mob-2x.jpg 2x
                   "
                   media="(max-width: 767px)"
                 />
                 <img
-                  src="/assets/images/team1-img-1x.jpg"
+                  src="/images/team1-img-1x.jpg"
                   alt="Ігор Дем'яненко, фото"
                   width="450"
                   height="460"
@@ -75,27 +75,27 @@ function Team() {
               <picture>
                 <source
                   srcSet="
-                    /assets/images/team2-img-1x.jpg 1x,
-                    /assets/images/team2-img-2x.jpg 2x
+                    /images/team2-img-1x.jpg 1x,
+                    /images/team2-img-2x.jpg 2x
                   "
                   media="(min-width: 1200px)"
                 />
                 <source
                   srcSet="
-                    /assets/images/team2-img-tab-1x.jpg 1x,
-                    /assets/images/team2-img-tab-2x.jpg 2x
+                    /images/team2-img-tab-1x.jpg 1x,
+                    /images/team2-img-tab-2x.jpg 2x
                   "
                   media="(min-width: 768px)"
                 />
                 <source
                   srcSet="
-                    /assets/images/team2-img-mob-1x.jpg 1x,
-                    /assets/images/team2-img-mob-2x.jpg 2x
+                    /images/team2-img-mob-1x.jpg 1x,
+                    /images/team2-img-mob-2x.jpg 2x
                   "
                   media="(max-width: 767px)"
                 />
                 <img
-                  src="/assets/images/team2-img-1x.jpg"
+                  src="/images/team2-img-1x.jpg"
                   alt="Ольга Рєпіна, фото"
                   width="450"
                   height="460"
@@ -140,27 +140,27 @@ function Team() {
               <picture>
                 <source
                   srcSet="
-                    /assets/images/team3-img-1x.jpg 1x,
-                    /assets/images/team3-img-2x.jpg 2x
+                    /images/team3-img-1x.jpg 1x,
+                    /images/team3-img-2x.jpg 2x
                   "
                   media="(min-width: 1200px)"
                 />
                 <source
                   srcSet="
-                    /assets/images/team3-img-tab-1x.jpg 1x,
-                    /assets/images/team3-img-tab-2x.jpg 2x
+                    /images/team3-img-tab-1x.jpg 1x,
+                    /images/team3-img-tab-2x.jpg 2x
                   "
                   media="(min-width: 768px)"
                 />
                 <source
                   srcSet="
-                    /assets/images/team3-img-mob-1x.jpg 1x,
-                    /assets/images/team3-img-mob-2x.jpg 2x
+                    /images/team3-img-mob-1x.jpg 1x,
+                    /images/team3-img-mob-2x.jpg 2x
                   "
                   media="(max-width: 767px)"
                 />
                 <img
-                  src="/assets/images/team3-img-1x.jpg"
+                  src="/images/team3-img-1x.jpg"
                   alt="Микола Тарасов, фото"
                   width="450"
                   height="460"
@@ -205,27 +205,27 @@ function Team() {
               <picture>
                 <source
                   srcSet="
-                    /assets/images/team4-img-1x.jpg 1x,
-                    /assets/images/team4-img-2x.jpg 2x
+                    /images/team4-img-1x.jpg 1x,
+                    /images/team4-img-2x.jpg 2x
                   "
                   media="(min-width: 1200px)"
                 />
                 <source
                   srcSet="
-                    /assets/images/team4-img-tab-1x.jpg 1x,
-                    /assets/images/team4-img-tab-2x.jpg 2x
+                    /images/team4-img-tab-1x.jpg 1x,
+                    /images/team4-img-tab-2x.jpg 2x
                   "
                   media="(min-width: 768px)"
                 />
                 <source
                   srcSet="
-                    /assets/images/team4-img-mob-1x.jpg 1x,
-                    /assets/images/team4-img-mob-2x.jpg 2x
+                    /images/team4-img-mob-1x.jpg 1x,
+                    /images/team4-img-mob-2x.jpg 2x
                   "
                   media="(max-width: 767px)"
                 />
                 <img
-                  src="/assets/images/team4-img-1x.jpg"
+                  src="/images/team4-img-1x.jpg"
                   alt="Михайло Єрмаков, фото"
                   width="450"
                   height="460"

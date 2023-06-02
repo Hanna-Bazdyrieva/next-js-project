@@ -1,7 +1,6 @@
 import "@styles/globals.scss";
-import Nav from "@components/Nav";
-import Provider from "@components/Provider";
 import Header from "@components/Header";
+import Footer from "@components/Footer";
 
 export const metadata = {
 	title: " Phonebook",
@@ -12,17 +11,12 @@ function RootLayout({ children }) {
 	return (
 		<html lang="en">
 			<body>
-				<div className="main">
-					<div className="gradient" />
-				</div>
-
+				
 				<main className="app">
-					{/* <div className="container"> */}
-<Header/>
-					{/* <Nav/> */}
+					<Header />
 					{children}
-					{/* </div> */}
-					</main>
+					<Footer/>
+				</main>
 			</body>
 		</html>
 	);

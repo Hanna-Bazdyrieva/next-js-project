@@ -6,8 +6,9 @@ import Hero from "@components/Hero";
 import Features from "@components/Features";
 import Activities from "@components/Activities";
 import Team from "@components/Team";
+import Clients from "@components/Clients";
 
-function Home(props) {
+function Home() {
 	return (
 		<>
 			<Feed />
@@ -15,13 +16,9 @@ function Home(props) {
       <Features/>
       <Activities/>
       <Team/>
-      <h2>End</h2>
+      <Clients/>
 		</>
 	);
 }
-
-// Home.propTypes = {
-
-// }
 
 export default Home;

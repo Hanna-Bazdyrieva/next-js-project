@@ -10,10 +10,10 @@ function Activities() {
         <li className="activities__item">
           <div className="activities__thumb">
             <Image
-              srcSet="/assets/images/activities1-1x.jpg 1x,
-                /assets/images/activities1-2x.jpg 2x
+              srcSet="/images/activities1-1x.jpg 1x,
+                /images/activities1-2x.jpg 2x
               "
-              src="/assets/images/activities1-1x.jpg"
+              src="/images/activities1-1x.jpg"
               alt="Розроблений алгоритм перетворюється на програмний код"
               width="370" height="294"
             />
@@ -26,10 +26,10 @@ function Activities() {
           <div className="activities__thumb">
             <Image
               srcSet="
-                /assets/images/activities2-1x.jpg 1x,
-                /assets/images/activities2-2x.jpg 2x
+                /images/activities2-1x.jpg 1x,
+                /images/activities2-2x.jpg 2x
               "
-              src="/assets/images/activities2-1x.jpg"
+              src="/images/activities2-1x.jpg"
               alt="На ноутбуці розробляють мобільний застосунок"
               width="370" height="294"
             />
@@ -42,10 +42,10 @@ function Activities() {
           <div className="activities__thumb">
             <img
               srcSet="
-                /assets/images/activities3-1x.jpg 1x,
-                /assets/images/activities3-2x.jpg 2x
+                /images/activities3-1x.jpg 1x,
+                /images/activities3-2x.jpg 2x
               "
-              src="/assets/images/activities3-1x.jpg"
+              src="/images/activities3-1x.jpg"
               alt="На графічному планшеті добирають кольори для дизайна"
               width="370" height="294"
             />

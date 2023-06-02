@@ -14,19 +14,19 @@ function Header() {
 							href="mailto:info@devstudio.com"
 						>
 							<Image
-								src="/assets/icons/envelope.svg"
+								src="/icons/envelope.svg"
 								alt="envelop"
 								width={16}
 								height={12}
 								className="header__icon header__icon--email"
 							/>
-							{/* <svg
+							<svg
 								className="header__icon header__icon--email"
 								width="16"
 								height="12"
 							>
-								<use href='/envelop.svg'></use>
-							</svg> */}
+								<use href='/icons/envelop.svg'></use>
+							</svg>
 							info@devstudio.com
 						</a>
 					</li>
@@ -36,19 +36,19 @@ function Header() {
 							href="tel:+380961111111"
 						>
 							<Image
-								src="/assets/icons/smartphone.svg"
+								src="/icons/smartphone.svg"
 								alt="envelop"
 								width={12}
 								height={18}
 								className="header__icon header__icon--tel"
 							/>
-							{/* <svg
+							<svg
 								className="header__icon header__icon--tel"
 								width="10"
 								height="16"
 							>
-								<use href="/assets/icons/smartphone.svg"></use>
-							</svg> */}
+								<use href="./icons/smartphone.svg"></use>
+							</svg>
 							+38 096 111 11 11
 						</a>
 					</li>

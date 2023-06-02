@@ -22,8 +22,7 @@ function Nav() {
           <li className="header__item" ><Link href="/" className="header__link">Контакти</Link></li>
 
 			</ul>
-           {/* 
-        */}
+          
 		</nav>
 	);
 }
