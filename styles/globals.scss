@@ -266,7 +266,7 @@ img {
 }
 @media screen and (min-width: 1200px) {
   .subscribe {
-    width: 207px;
+    width: 215px;
   }
 }
 @media screen and (max-width: 767px) {
@@ -278,7 +278,6 @@ img {
 .subscribe__input {
   width: 100%;
   max-width: 450px;
-  height: 50px;
   padding: 15px 16px;
   margin-bottom: 20px;
   font-weight: 400;
@@ -975,6 +974,9 @@ img {
     width: calc((100% - 90px) / 4);
     padding-bottom: 30px;
   }
+}
+.team-image{
+  margin: 0 auto;
 }
 .team__details {
   padding-top: 30px;

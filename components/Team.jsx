@@ -29,7 +29,7 @@ function Team() {
                   "
                   media="(max-width: 767px)"
                 />
-                <img
+                <img className="team-image"
                   src="/images/team1-img-1x.jpg"
                   alt="Ігор Дем'яненко, фото"
                   width="450"
@@ -94,7 +94,7 @@ function Team() {
                   "
                   media="(max-width: 767px)"
                 />
-                <img
+                <img className="team-image"
                   src="/images/team2-img-1x.jpg"
                   alt="Ольга Рєпіна, фото"
                   width="450"
@@ -159,7 +159,7 @@ function Team() {
                   "
                   media="(max-width: 767px)"
                 />
-                <img
+                <img className="team-image"
                   src="/images/team3-img-1x.jpg"
                   alt="Микола Тарасов, фото"
                   width="450"
@@ -224,7 +224,7 @@ function Team() {
                   "
                   media="(max-width: 767px)"
                 />
-                <img
+                <img className="team-image"
                   src="/images/team4-img-1x.jpg"
                   alt="Михайло Єрмаков, фото"
                   width="450"

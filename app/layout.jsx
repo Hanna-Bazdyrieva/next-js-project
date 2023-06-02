@@ -3,20 +3,21 @@ import Header from "@components/Header";
 import Footer from "@components/Footer";
 
 export const metadata = {
-	title: " Phonebook",
-	description: "Keep and get your contacts",
+	title: " Next.js Project",
+	description: "WebStudio site on Next.js",
 };
 
 function RootLayout({ children }) {
 	return (
 		<html lang="en">
 			<body>
-				
+			<Header />
 				<main className="app">
-					<Header />
+					
 					{children}
-					<Footer/>
+					
 				</main>
+				<Footer/>
 			</body>
 		</html>
 	);
