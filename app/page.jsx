@@ -11,7 +11,6 @@ import Clients from "@components/Clients";
 function Home() {
 	return (
 		<>
-			<Feed />
 			<Hero />
       <Features/>
       <Activities/>

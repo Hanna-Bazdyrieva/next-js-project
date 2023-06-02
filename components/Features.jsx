@@ -10,16 +10,16 @@ function Features() {
           <ul class="feature__list">
             <li class="feature__item">
               <div class="feature__wrap">
-              <Image
+              {/* <Image
 								src="/icons/antenna.svg"
 								alt="antenna"
 								width={70}
 								height={70}
 								className="feature__icon"
-							/>
+							/> */}
 
                 <svg class="feature__icon" width="70" height="70">
-                  <use href="./images/icons.svg#antenna"></use>
+                  <use href="/icons/icons.svg#antenna"></use>
                 </svg>
               </div>
               <h3 class="feature__headline">УВАГА ДО ДЕТАЛЕЙ</h3>
@@ -30,16 +30,16 @@ function Features() {
             </li>
             <li class="item feature__item">
               <div class="feature__wrap">
-              <Image
+              {/* <Image
 								src="/icons/astronaut.svg"
 								alt="astronaut"
 								width={70}
 								height={70}
 								className="feature__icon"
-							/>
-                {/* <svg class="feature__icon" width="70" height="70">
-                  <use href="./images/icons.svg#astronaut"></use>
-                </svg> */}
+							/> */}
+                <svg class="feature__icon" width="70" height="70">
+                  <use href="/icons/icons.svg#astronaut"></use>
+                </svg>
               </div>
               <h3 class="feature__headline">ПУНКТУАЛЬНІСТЬ</h3>
               <p>
@@ -49,16 +49,16 @@ function Features() {
             </li>
             <li class="feature__item">
               <div class="feature__wrap">
-              <Image
+              {/* <Image
 								src="/icons/clock.svg"
 								alt="clock"
 								width={70}
 								height={70}
 								className="feature__icon"
-							/>
-                {/* <svg class="feature__icon" width="70" height="70">
-                  <use href="./images/icons.svg#clock"></use>
-                </svg> */}
+							/> */}
+                <svg class="feature__icon" width="70" height="70">
+                  <use href="/icons/icons.svg#clock"></use>
+                </svg>
               </div>
               <h3 class="feature__headline">ПЛАНУВАННЯ</h3>
               <p>
@@ -67,16 +67,16 @@ function Features() {
             </li>
             <li class="feature__item">
               <div class="feature__wrap">
-              <Image
+              {/* <Image
 								src="/icons/diagram.svg"
 								alt="diagram"
 								width={70}
 								height={70}
 								className="feature__icon"
-							/>
-                {/* <svg class="feature__icon" width="70" height="70">
-                  <use href="assets/icons/diagram.svg"></use>
-                </svg> */}
+							/> */}
+                <svg class="feature__icon" width="70" height="70">
+                  <use href="/icons/icons.svg#diagram"></use>
+                </svg>
               </div>
               <h3 class="feature__headline">СУЧАСНІ ТЕХНОЛОГІЇ</h3>
               <p>

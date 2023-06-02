@@ -9,42 +9,42 @@ function Clients() {
             <li className="clients__item">
               <a href="" className="clients__link">
                 <svg className="clients__icon" width="106" height="60">
-                  <use href="/images/icons.svg#Logo_1"></use>
+                  <use href="/icons/icons.svg#Logo_1"></use>
                 </svg>
               </a>
             </li>
             <li className="clients__item">
               <a href="" className="clients__link">
                 <svg className="clients__icon" width="106" height="60">
-                  <use href="/images/icons.svg#Logo_2"></use>
+                  <use href="/icons/icons.svg#Logo_2"></use>
                 </svg>
               </a>
             </li>
             <li className="clients__item">
               <a href="" className="clients__link">
                 <svg className="clients__icon" width="106" height="60">
-                  <use href="/images/icons.svg#Logo_3"></use>
+                  <use href="/icons/icons.svg#Logo_3"></use>
                 </svg>
               </a>
             </li>
             <li className="clients__item">
               <a href="" className="clients__link">
                 <svg className="clients__icon" width="106" height="60">
-                  <use href="./images/icons.svg#Logo_4"></use>
+                  <use href="/icons/icons.svg#Logo_4"></use>
                 </svg>
               </a>
             </li>
             <li className="clients__item">
               <a href="" className="clients__link">
                 <svg className="clients__icon" width="106" height="60">
-                  <use href="./images/icons.svg#Logo_5"></use>
+                  <use href="/icons/icons.svg#Logo_5"></use>
                 </svg>
               </a>
             </li>
             <li className="clients__item">
               <a href="" className="clients__link">
                 <svg className="clients__icon" width="106" height="60">
-                  <use href="./images/icons.svg#Logo_6"></use>
+                  <use href="/icons/icons.svg#Logo_6"></use>
                 </svg>
               </a>
             </li>

@@ -13,19 +13,19 @@ function Header() {
 							className="header__note header__note--tel"
 							href="mailto:info@devstudio.com"
 						>
-							<Image
+							{/* <Image
 								src="/icons/envelope.svg"
 								alt="envelop"
 								width={16}
 								height={12}
 								className="header__icon header__icon--email"
-							/>
+							/> */}
 							<svg
 								className="header__icon header__icon--email"
 								width="16"
 								height="12"
 							>
-								<use href='/icons/envelop.svg'></use>
+								<use href='/icons/icons.svg#envelope'></use>
 							</svg>
 							info@devstudio.com
 						</a>
@@ -35,19 +35,19 @@ function Header() {
 							className="header__note header__note--email"
 							href="tel:+380961111111"
 						>
-							<Image
+							{/* <Image
 								src="/icons/smartphone.svg"
 								alt="envelop"
 								width={12}
 								height={18}
 								className="header__icon header__icon--tel"
-							/>
+							/> */}
 							<svg
 								className="header__icon header__icon--tel"
 								width="10"
 								height="16"
 							>
-								<use href="./icons/smartphone.svg"></use>
+								<use href="/icons/icons.svg#smartphone"></use>
 							</svg>
 							+38 096 111 11 11
 						</a>

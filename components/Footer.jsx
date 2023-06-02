@@ -5,7 +5,7 @@ function Footer() {
     <footer className="footer">
       <div className="container footer__container">
         <div className="address">
-          <a className="logo logo--footer" href="./index.html"
+          <a className="logo logo--footer" href="/"
             >Web<span className="logo__studio--footer">Studio</span></a
           >
           <address className="address__menu">
@@ -45,28 +45,28 @@ function Footer() {
             <li className="socials__item">
               <a href="" className="socials__link socials__link--footer">
                 <svg className="socials__icon" width="20" height="20">
-                  <use href="./images/icons.svg#instagram"></use>
+                  <use href="/icons/icons.svg#instagram"></use>
                 </svg>
               </a>
             </li>
             <li className="socials__item">
               <a href="" className="socials__link socials__link--footer">
                 <svg className="socials__icon" width="20" height="20">
-                  <use href="./images/icons.svg#twitter"></use>
+                  <use href="/icons/icons.svg#twitter"></use>
                 </svg>
               </a>
             </li>
             <li className="socials__item">
               <a href="" className="socials__link socials__link--footer">
                 <svg className="socials__icon" width="20" height="20">
-                  <use href="./images/icons.svg#facebook"></use>
+                  <use href="/icons/icons.svg#facebook"></use>
                 </svg>
               </a>
             </li>
             <li className="socials__item">
               <a href="" className="socials__link socials__link--footer">
                 <svg className="socials__icon" width="20" height="20">
-                  <use href="./images/icons.svg#linkedin"></use>
+                  <use href="/icons/icons.svg#linkedin"></use>
                 </svg>
               </a>
             </li>
@@ -91,7 +91,7 @@ function Footer() {
             <button className="button subscribe__button" type="submit">
               Підписатися
               <svg className="subscribe__icon" width="24" height="24">
-                <use href="./images/icons.svg#icon-send"></use>
+                <use href="/icons/icons.svg#icon-send"></use>
               </svg>
             </button>
           </form>

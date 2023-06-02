@@ -44,28 +44,28 @@ function Team() {
                 <li className="socials__item">
                   <a href="" className="socials__link">
                     <svg className="socials__icon" width="20" height="20">
-                      <use href="./images/icons.svg#instagram"></use>
+                      <use href="/icons/icons.svg#instagram"></use>
                     </svg>
                   </a>
                 </li>
                 <li className="socials__item">
                   <a href="" className="socials__link">
                     <svg className="socials__icon" width="20" height="20">
-                      <use href="./images/icons.svg#twitter"></use>
+                      <use href="/icons/icons.svg#twitter"></use>
                     </svg>
                   </a>
                 </li>
                 <li className="socials__item">
                   <a href="" className="socials__link">
                     <svg className="socials__icon" width="20" height="20">
-                      <use href="./images/icons.svg#facebook"></use>
+                      <use href="/icons/icons.svg#facebook"></use>
                     </svg>
                   </a>
                 </li>
                 <li className="socials__item">
                   <a href="" className="socials__link">
                     <svg className="socials__icon" width="20" height="20">
-                      <use href="./images/icons.svg#linkedin"></use>
+                      <use href="/icons/icons.svg#linkedin"></use>
                     </svg>
                   </a>
                 </li>
@@ -109,28 +109,28 @@ function Team() {
                 <li className="socials__item">
                   <a href="" className="socials__link">
                     <svg className="socials__icon" width="20" height="20">
-                      <use href="./images/icons.svg#instagram"></use>
+                      <use href="/icons/icons.svg#instagram"></use>
                     </svg>
                   </a>
                 </li>
                 <li className="socials__item">
                   <a href="" className="socials__link">
                     <svg className="socials__icon" width="20" height="20">
-                      <use href="./images/icons.svg#twitter"></use>
+                      <use href="/icons/icons.svg#twitter"></use>
                     </svg>
                   </a>
                 </li>
                 <li className="socials__item">
                   <a href="" className="socials__link">
                     <svg className="socials__icon" width="20" height="20">
-                      <use href="./images/icons.svg#facebook"></use>
+                      <use href="/icons/icons.svg#facebook"></use>
                     </svg>
                   </a>
                 </li>
                 <li className="socials__item">
                   <a href="" className="socials__link">
                     <svg className="socials__icon" width="20" height="20">
-                      <use href="./images/icons.svg#linkedin"></use>
+                      <use href="/icons/icons.svg#linkedin"></use>
                     </svg>
                   </a>
                 </li>
@@ -174,28 +174,28 @@ function Team() {
                 <li className="socials__item">
                   <a href="" className="socials__link">
                     <svg className="socials__icon" width="20" height="20">
-                      <use href="./images/icons.svg#instagram"></use>
+                      <use href="/icons/icons.svg#instagram"></use>
                     </svg>
                   </a>
                 </li>
                 <li className="socials__item">
                   <a href="" className="socials__link">
                     <svg className="socials__icon" width="20" height="20">
-                      <use href="./images/icons.svg#twitter"></use>
+                      <use href="/icons/icons.svg#twitter"></use>
                     </svg>
                   </a>
                 </li>
                 <li className="socials__item">
                   <a href="" className="socials__link">
                     <svg className="socials__icon" width="20" height="20">
-                      <use href="./images/icons.svg#facebook"></use>
+                      <use href="/icons/icons.svg#facebook"></use>
                     </svg>
                   </a>
                 </li>
                 <li className="socials__item">
                   <a href="" className="socials__link">
                     <svg className="socials__icon" width="20" height="20">
-                      <use href="./images/icons.svg#linkedin"></use>
+                      <use href="/icons/icons.svg#linkedin"></use>
                     </svg>
                   </a>
                 </li>
@@ -240,28 +240,28 @@ function Team() {
                 <li className="socials__item">
                   <a href="" className="socials__link">
                     <svg className="socials__icon" width="20" height="20">
-                      <use href="./images/icons.svg#instagram"></use>
+                      <use href="/icons/icons.svg#instagram"></use>
                     </svg>
                   </a>
                 </li>
                 <li className="socials__item">
                   <a href="" className="socials__link">
                     <svg className="socials__icon" width="20" height="20">
-                      <use href="./images/icons.svg#twitter"></use>
+                      <use href="/icons/icons.svg#twitter"></use>
                     </svg>
                   </a>
                 </li>
                 <li className="socials__item">
                   <a href="" className="socials__link">
                     <svg className="socials__icon" width="20" height="20">
-                      <use href="./images/icons.svg#facebook"></use>
+                      <use href="/icons/icons.svg#facebook"></use>
                     </svg>
                   </a>
                 </li>
                 <li className="socials__item">
                   <a href="" className="socials__link">
                     <svg className="socials__icon" width="20" height="20">
-                      <use href="./images/icons.svg#linkedin"></use>
+                      <use href="/icons/icons.svg#linkedin"></use>
                     </svg>
                   </a>
                 </li>
