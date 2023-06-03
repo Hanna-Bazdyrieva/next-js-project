@@ -1,6 +1,6 @@
 import Gallery from '@components/Gallery'
 
-function Portfolio() {
+function Portfolio(props) {
   return (
     <>
     <Gallery/>

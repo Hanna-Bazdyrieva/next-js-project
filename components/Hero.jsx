@@ -1,18 +1,27 @@
-import React from 'react'
+"use client";
+import { useState } from "react";
+import Modal from "./Modal";
 
 function Hero() {
-  return (
-    <section class="hero section">
-        <div class="hero__container">
-          <h1 class="hero__title">Ефективні рішення для вашого бізнесу</h1>
-          <button class="button hero__button" data-modal-open>
-            Замовити послугу
-          </button>
-        </div>
-        
+	const [isModalOpen, setIsModalOpen] = useState(false);
 
-      </section>
-  )
+	return (
+		<>
+			<section className="hero section">
+				<div className="hero__container">
+					<h1 className="hero__title">Ефективні рішення для вашого бізнесу</h1>
+					<button
+						type="button"
+						className="button hero__button"
+						onClick={() => setIsModalOpen(true)}
+					>
+						Замовити послугу
+					</button>
+				</div>
+			</section>
+			{isModalOpen && <Modal closeModal={setIsModalOpen} />}
+		</>
+	);
 }
 
-export default Hero
+export default Hero;
